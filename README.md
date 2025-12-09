@@ -1,5 +1,5 @@
 # 💫 About Me:
-MCA student & backend developer<br>Laravel • Python • MySQL<br>Love turning ideas into working projects 🚀
+MCA student & backend developer<br>Laravel • Python • Django • MySQL<br>Love turning ideas into working projects 🚀
 
 
 ## 🌐 Socials:
